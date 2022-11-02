@@ -105,5 +105,5 @@
   
 <br>
 <hr>
-<h2 align="center">Keep Learning.. 📚📖 By Starring My <a href='https://github.com/prathmesh-jagtap?tab=repositories'><img align='center'  height="50" src="https://img.shields.io/badge/Repos!😊-purple.svg?&style=for-the-badge&logo=prathmesh-jagtap&logoColor=blue" /></a></h2>
+<h2 align="center">Keep Learning.. 📚📖 By Starring My <a href='https://github.com/prathmesh-jagtap?tab=repositories'><img align='center'  height="35" src="https://img.shields.io/badge/Repos!😊-purple.svg?&style=for-the-badge&logo=prathmesh-jagtap&logoColor=blue" /></a></h2>
   
