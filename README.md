@@ -87,7 +87,21 @@
   </div>
 </div>
 
+<Br>
+<hr>
+<div align="center">
+   <h1>Projects </h1>
+  
+[<img src="https://github-readme-stats.vercel.app/api/pin/?username=akrish4&repo=php-work&theme=tokyonight" width="40%" height="90%"/>](https://github.com/prathmesh-jagtap/Credit-Card-Default-Prediction-ML-Project)
+[<img src="https://github-readme-stats.vercel.app/api/pin/?username=akrish4&repo=Python-Simple-Chat-Bot&theme=tokyonight" width="46%" height="97%"/>](https://github.com/prathmesh-jagtap/Housing-Price-Prediction-ML-Project)
+[<img src="https://github-readme-stats.vercel.app/api/pin/?username=akrish4&repo=Django-Weather-Web-App&theme=tokyonight" width="40%" height="95%"/>](https://github.com/prathmesh-jagtap/Amazon-Data-Scraper-Project)
+[<img src="https://github-readme-stats.vercel.app/api/pin/?username=akrish4&repo=Salary_Predictor_deployed_flask&theme=tokyonight" width="46%" height="97%"/>](https://github.com/prathmesh-jagtap/Django-Liberary-App)
+[<img src="https://github-readme-stats.vercel.app/api/pin/?username=akrish4&repo=madlibs_randomly_fun&theme=tokyonight" width="40%" height="95%"/>](https://github.com/prathmesh-jagtap/Python_ReviewFlask_app)
+[<img src="https://github-readme-stats.vercel.app/api/pin/?username=akrish4&repo=Virtual_Piano&theme=tokyonight" width="46%" height="97%"/>](https://github.com/prathmesh-jagtap/Flask-Playlister-App)
+[<img src="https://github-readme-stats.vercel.app/api/pin/?username=akrish4&repo=Django-Weather-Web-App&theme=tokyonight" width="40%" height="95%"/>](https://github.com/prathmesh-jagtap/Location-FInder)
+[<img src="https://github-readme-stats.vercel.app/api/pin/?username=akrish4&repo=Guess_Number&theme=tokyonight" width="46%" height="97%"/>](https://github.com/prathmesh-jagtap/Customer-Churn-Prediction)
 
+</div>
 
 
 
