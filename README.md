@@ -1,5 +1,5 @@
 <h1 align="center"> Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"><i> I'm PRATHMESH JAGTAP <i></h1>
-<h3 align="center">A Tech Tech enthusiast 😃 from India 🇮🇳</h3>
+<h3 align="center">A Tech enthusiast 😃 from India 🇮🇳</h3>
 
 <br>
   
