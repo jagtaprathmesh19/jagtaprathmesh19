@@ -4,7 +4,7 @@
 
 # Me 👨‍💻 <img src="https://komarev.com/ghpvc/?username=prathmesh-jagtap&color=5d3ade&label=visitors&style=flat-square" align="right" />
 - 🏫: I'm a Data Science, Machine Learning, and Artificial Intelligence learner.
-- 🔭: I’m currently working on many ML projects and looking for more opportunities.
+- 🔭: I’m currently working on many ML projects, MLOPS and looking for more opportunities.
 - 🌱: I’m currently learning Neural Networks and Deep Learning. 🧠💻🤖
 - 🤔: I’m looking for help with anything I am currently learning! 😅
 - 💬: Ask me about Data Analysis, Visualization and Machine Learning algorithms. 📊📈🤖🧠
@@ -25,7 +25,7 @@
   <h1>Tech Skills :computer: </h1>
 
 ![B](https://icongr.am/devicon/python-original.svg?size=55&color=563d7c) ![B](https://icongr.am/devicon/mysql-original-wordmark.svg?size=70&color=currentColor)
-![B](https://icongr.am/devicon/django-original.svg?size=55&color=currentColor) ![B](https://github.com/prathmesh-jagtap/prathmesh-jagtap/blob/main/MLops.svg?size=70)
+![B](https://icongr.am/devicon/django-original.svg?size=55&color=currentColor)
 ![B](https://icongr.am/devicon/docker-original.svg?size=70&color=currentColor) ![B](https://icongr.am/devicon/c-original.svg?size=55&color=563d7c) 
 ![B](https://icongr.am/devicon/html5-original.svg?size=55&color=563d7c) ![B](https://icongr.am/devicon/css3-original.svg?size=55&color=563d7c)  
 ![B](https://icongr.am/devicon/git-original.svg?size=55&color=563d7c)  ![B](https://icongr.am/octicons/mark-github.svg?size=55&color=949494) 
