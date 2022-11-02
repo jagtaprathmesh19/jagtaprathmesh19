@@ -2,6 +2,7 @@
 <h3 align="center">A Tech Tech enthusiast 😃 from India 🇮🇳</h3>
 
 <br>
+  
 # Me 👨‍💻 <img src="https://komarev.com/ghpvc/?username=prathmesh-jagtap&color=5d3ade&label=visitors&style=flat-square" align="right" />
 - 🏫: I'm a Data Science, Machine Learning, and Artificial Intelligence learner.
 - 🔭: I’m currently working on many ML projects, MLOPS and looking for more opportunities.
