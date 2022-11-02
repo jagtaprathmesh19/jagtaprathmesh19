@@ -52,34 +52,37 @@
       <img
         align="right"
         width="396"
-        src="https://github-readme-stats.vercel.app/api?username=prathmesh-jagtap&show_icons=true&theme=holi-theme&count_private=true&border_color=61dafb&hide_border=true"
+        src="https://github-readme-stats.vercel.app/api?username=prathmesh-jagtap&show_icons=true&theme=github_dark&count_private=true&border_color=61dafb&hide_border=true"
       />
     </a>
   </div>
+  
   <br /><br /><br /><br /><br /><br /><br /><br /><br />
   <div align="center" title="Go to Source">
     <a href="https://github.com/anuraghazra/github-readme-stats">
       <img
         width="325"
         align="center"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathmesh-jagtap&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathmesh-jagtap&theme=github_dark&count_private=true&border_color=61dafb&hide_border=true"
       />
     </a>
   </div>
   <br />
+  
   <div align="center">
     <a href="https://github.com/Ashutosh00710/github-readme-activity-graph" align="center" title="Go to Source">
       <img
-        src="https://activity-graph.herokuapp.com/graph?username=prathmesh-jagtap&theme=holi-theme&bg_color=20232a&hide_border=true&area=true"
+        src="https://activity-graph.herokuapp.com/graph?username=prathmesh-jagtap&theme=tokyo-night&bg_color=20232a&hide_border=true&area=true"
         alt="Contributions Graph"
         width="100%"
       />
     </a>
   </div>
   <br />
+  
   <div align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img src="https://github-profile-trophy.vercel.app/?username=prathmesh-jagtap&theme=holi-theme&column=7" alt="Trophies" />
+      <img src="https://github-profile-trophy.vercel.app/?username=prathmesh-jagtap&theme=onedark&column=6" alt="Trophies" />
     </a>
   </div>
 </div>
