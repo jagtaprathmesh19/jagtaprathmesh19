@@ -94,13 +94,13 @@
  
 [<img src="https://github-readme-stats.vercel.app/api/pin/?username=prathmesh-jagtap&repo=Credit-Card-Default-Prediction-ML-Project&theme=tokyonight" width="45%" height="90%"/>](https://github.com/prathmesh-jagtap/Credit-Card-Default-Prediction-ML-Project)
 [<img src="https://github-readme-stats.vercel.app/api/pin/?username=prathmesh-jagtap&repo=Housing-Price-Prediction-ML-Project&theme=tokyonight" width="45%" height="90%"/>](https://github.com/prathmesh-jagtap/Housing-Price-Prediction-ML-Project)
+[<img src="https://github-readme-stats.vercel.app/api/pin/?username=prathmesh-jagtap&repo=Customer-Churn-Prediction&theme=tokyonight" width="45%" height="90%"/>](https://github.com/prathmesh-jagtap/Customer-Churn-Prediction)
+[<img src="https://github-readme-stats.vercel.app/api/pin/?username=prathmesh-jagtap&repo=Location-FInder&theme=tokyonight" width="45%" height="90%"/>](https://github.com/prathmesh-jagtap/Location-FInder)
+[<img src="https://github-readme-stats.vercel.app/api/pin/?username=prathmesh-jagtap&repo=Flask-Playlister-App&theme=tokyonight" width="45%" height="90%"/>](https://github.com/prathmesh-jagtap/Flask-Playlister-App)
 [<img src="https://github-readme-stats.vercel.app/api/pin/?username=prathmesh-jagtap&repo=Amazon-Data-Scraper-Project&theme=tokyonight" width="45%" height="90%"/>](https://github.com/prathmesh-jagtap/Amazon-Data-Scraper-Project)
 [<img src="https://github-readme-stats.vercel.app/api/pin/?username=prathmesh-jagtap&repo=Django-Liberary-App&theme=tokyonight" width="45%" height="90%"/>](https://github.com/prathmesh-jagtap/Django-Liberary-App)
 [<img src="https://github-readme-stats.vercel.app/api/pin/?username=prathmesh-jagtap&repo=Python_ReviewFlask_app&theme=tokyonight" width="45%" height="90%"/>](https://github.com/prathmesh-jagtap/Python_ReviewFlask_app)
-[<img src="https://github-readme-stats.vercel.app/api/pin/?username=prathmesh-jagtap&repo=Flask-Playlister-App&theme=tokyonight" width="45%" height="90%"/>](https://github.com/prathmesh-jagtap/Flask-Playlister-App)
-[<img src="https://github-readme-stats.vercel.app/api/pin/?username=prathmesh-jagtap&repo=Location-FInder&theme=tokyonight" width="45%" height="90%"/>](https://github.com/prathmesh-jagtap/Location-FInder)
-[<img src="https://github-readme-stats.vercel.app/api/pin/?username=prathmesh-jagtap&repo=Customer-Churn-Prediction&theme=tokyonight" width="45%" height="90%"/>](https://github.com/prathmesh-jagtap/Customer-Churn-Prediction)
-
+  
 </div>
 
 
