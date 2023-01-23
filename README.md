@@ -75,13 +75,7 @@
   
   [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=prathmesh-jagtap&theme=react)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-  
-  <div align="center">
-    <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img src="https://github-profile-trophy.vercel.app/?username=prathmesh-jagtap&theme=github-dark&column=6" alt="Trophies" />
-    </a>
-  </div>
-</div>
+  [![trophy](https://github-profile-trophy.vercel.app/?username=prathmesh-jagtap&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <Br>
 <hr>
