@@ -96,7 +96,7 @@
 <hr>
 <div align="center">
    <h1>Projects </h1>
- 
+
 [<img src="https://github-readme-stats.vercel.app/api/pin/?username=prathmesh-jagtap&repo=Credit-Card-Default-Prediction-ML-Project&theme=tokyonight" width="45%" height="90%"/>](https://github.com/prathmesh-jagtap/Credit-Card-Default-Prediction-ML-Project)
 [<img src="https://github-readme-stats.vercel.app/api/pin/?username=prathmesh-jagtap&repo=Housing-Price-Prediction-ML-Project&theme=tokyonight" width="45%" height="90%"/>](https://github.com/prathmesh-jagtap/Housing-Price-Prediction-ML-Project)
 [<img src="https://github-readme-stats.vercel.app/api/pin/?username=prathmesh-jagtap&repo=Customer-Churn-Prediction&theme=tokyonight" width="45%" height="90%"/>](https://github.com/prathmesh-jagtap/Customer-Churn-Prediction)
