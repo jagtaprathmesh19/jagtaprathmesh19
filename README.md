@@ -48,7 +48,7 @@
       <img
         align="left"
         width="396"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=prathmesh-jagtap&theme=holi-theme&count_private=true&border=61dafb&hide_border=true"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=prathmesh-jagtap&theme=dark&count_private=true&border=61dafb&hide_border=true"
         alt="zumrudu-anka"
       />
     </a>
@@ -56,7 +56,7 @@
       <img
         align="right"
         width="396"
-        src="https://github-readme-stats.vercel.app/api?username=prathmesh-jagtap&show_icons=true&theme=github_dark&count_private=true&border_color=61dafb&hide_border=true"
+        src="https://github-readme-stats.vercel.app/api?username=prathmesh-jagtap&show_icons=true&theme=dark&count_private=true&border_color=61dafb&hide_border=true"
       />
     </a>
   </div>
@@ -67,7 +67,7 @@
       <img
         width="325"
         align="center"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathmesh-jagtap&theme=github_dark&count_private=true&border_color=61dafb&hide_border=true"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathmesh-jagtap&theme=dark&count_private=true&border_color=61dafb&hide_border=true"
       />
     </a>
   </div>
@@ -77,7 +77,7 @@
   <div align="center">
     <a href="https://github.com/Ashutosh00710/github-readme-activity-graph" align="center" title="Go to Source">
       <img
-        src="https://activity-graph.herokuapp.com/graph?username=prathmesh-jagtap&theme=tokyo-night&bg_color=20232a&hide_border=true&area=true"
+        src="https://activity-graph.herokuapp.com/graph?username=prathmesh-jagtap"
         alt="Contributions Graph"
         width="100%"
       />
@@ -87,7 +87,7 @@
   
   <div align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img src="https://github-profile-trophy.vercel.app/?username=prathmesh-jagtap&theme=onedark&column=6" alt="Trophies" />
+      <img src="https://github-profile-trophy.vercel.app/?username=prathmesh-jagtap&theme=github-dark&column=6" alt="Trophies" />
     </a>
   </div>
 </div>
@@ -97,14 +97,14 @@
 <div align="center">
    <h1>Projects </h1>
 
-[<img src="https://github-readme-stats.vercel.app/api/pin/?username=prathmesh-jagtap&repo=Credit-Card-Default-Prediction-ML-Project&theme=tokyonight" width="45%" height="90%"/>](https://github.com/prathmesh-jagtap/Credit-Card-Default-Prediction-ML-Project)
-[<img src="https://github-readme-stats.vercel.app/api/pin/?username=prathmesh-jagtap&repo=Housing-Price-Prediction-ML-Project&theme=tokyonight" width="45%" height="90%"/>](https://github.com/prathmesh-jagtap/Housing-Price-Prediction-ML-Project)
-[<img src="https://github-readme-stats.vercel.app/api/pin/?username=prathmesh-jagtap&repo=Customer-Churn-Prediction&theme=tokyonight" width="45%" height="90%"/>](https://github.com/prathmesh-jagtap/Customer-Churn-Prediction)
-[<img src="https://github-readme-stats.vercel.app/api/pin/?username=prathmesh-jagtap&repo=Location-FInder&theme=tokyonight" width="45%" height="90%"/>](https://github.com/prathmesh-jagtap/Location-FInder)
-[<img src="https://github-readme-stats.vercel.app/api/pin/?username=prathmesh-jagtap&repo=Flask-Playlister-App&theme=tokyonight" width="45%" height="90%"/>](https://github.com/prathmesh-jagtap/Flask-Playlister-App)
-[<img src="https://github-readme-stats.vercel.app/api/pin/?username=prathmesh-jagtap&repo=Amazon-Data-Scraper-Project&theme=tokyonight" width="45%" height="90%"/>](https://github.com/prathmesh-jagtap/Amazon-Data-Scraper-Project)
-[<img src="https://github-readme-stats.vercel.app/api/pin/?username=prathmesh-jagtap&repo=Django-Liberary-App&theme=tokyonight" width="45%" height="90%"/>](https://github.com/prathmesh-jagtap/Django-Liberary-App)
-[<img src="https://github-readme-stats.vercel.app/api/pin/?username=prathmesh-jagtap&repo=Python_ReviewFlask_app&theme=tokyonight" width="45%" height="90%"/>](https://github.com/prathmesh-jagtap/Python_ReviewFlask_app)
+[<img src="https://github-readme-stats.vercel.app/api/pin/?username=prathmesh-jagtap&repo=Credit-Card-Default-Prediction-ML-Project&theme=dark" width="45%" height="85%"/>](https://github.com/prathmesh-jagtap/Credit-Card-Default-Prediction-ML-Project)
+[<img src="https://github-readme-stats.vercel.app/api/pin/?username=prathmesh-jagtap&repo=Housing-Price-Prediction-ML-Project&theme=dark" width="45%" height="90%"/>](https://github.com/prathmesh-jagtap/Housing-Price-Prediction-ML-Project)
+[<img src="https://github-readme-stats.vercel.app/api/pin/?username=prathmesh-jagtap&repo=Customer-Churn-Prediction&theme=dark" width="45%" height="90%"/>](https://github.com/prathmesh-jagtap/Customer-Churn-Prediction)
+[<img src="https://github-readme-stats.vercel.app/api/pin/?username=prathmesh-jagtap&repo=Location-FInder&theme=dark" width="45%" height="90%"/>](https://github.com/prathmesh-jagtap/Location-FInder)
+[<img src="https://github-readme-stats.vercel.app/api/pin/?username=prathmesh-jagtap&repo=Flask-Playlister-App&theme=dark" width="45%" height="90%"/>](https://github.com/prathmesh-jagtap/Flask-Playlister-App)
+[<img src="https://github-readme-stats.vercel.app/api/pin/?username=prathmesh-jagtap&repo=Amazon-Data-Scraper-Project&theme=dark" width="45%" height="90%"/>](https://github.com/prathmesh-jagtap/Amazon-Data-Scraper-Project)
+[<img src="https://github-readme-stats.vercel.app/api/pin/?username=prathmesh-jagtap&repo=Django-Liberary-App&theme=dark" width="45%" height="90%"/>](https://github.com/prathmesh-jagtap/Django-Liberary-App)
+[<img src="https://github-readme-stats.vercel.app/api/pin/?username=prathmesh-jagtap&repo=Python_ReviewFlask_app&theme=dark" width="45%" height="90%"/>](https://github.com/prathmesh-jagtap/Python_ReviewFlask_app)
   
 </div>
   
