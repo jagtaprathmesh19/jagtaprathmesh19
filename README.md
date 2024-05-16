@@ -20,7 +20,7 @@
 <a href="https://www.linkedin.com/in/prathmesh-jagtap-3a05b7194/" target="blank"><img align="center" src="https://img.shields.io/badge/Prathmesh Jagtap-3a05b7194?style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;  
   <a href="mailto:jagtaprathmesh19@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/jagtaprathmesh19@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>    &nbsp;&nbsp;&nbsp;       
   <a href="https://www.github.com/prathmesh-jagtap" target="blank"><img align="center" src="https://img.shields.io/badge/-Prathmesh Jagtap-100000?style=for-the-badge&logo=github&logoColor=white" /></a>  &nbsp;&nbsp;&nbsp;   
-  <a href="https://drive.google.com/file/d/1R2zbsVbL_adwloeo7Z_ASUBo0Z9dbbuz/view?usp=sharing" target="blank"><img align="center" src="https://img.shields.io/badge/-Resume-100000?style=for-the-badge&color=blue" /></a>
+  <a href="https://drive.google.com/file/d/1s2-lqhAWDAabjGtC8nEj39Cg9sMwL8Ev/view?usp=sharing" target="blank"><img align="center" src="https://img.shields.io/badge/-Resume-100000?style=for-the-badge&color=blue" /></a>
 </p>
 
 <Br>
