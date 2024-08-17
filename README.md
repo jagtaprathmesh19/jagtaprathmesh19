@@ -1,14 +1,14 @@
 <h1 align="center"> Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"><i> I'm PRATHMESH JAGTAP <i></h1>
-<h3 align="center">A Tech enthusiast 😃 from India 🇮🇳</h3>
+<h3 align="center">A Tech enthusiast 😃 | Nerd At Heart ❤️ from India 🇮🇳</h3>
 
 <br>
   
 # Me 👨‍💻 <img src="https://komarev.com/ghpvc/?username=prathmesh-jagtap&color=5d3ade&label=visitors&style=flat-square" align="right" />
-- 🏫: I'm a Data Science, Machine Learning, and Artificial Intelligence learner.
-- 🔭: I’m currently working on many ML projects, MLOPS and looking for more opportunities.
-- 🌱: I’m currently learning Neural Networks and Deep Learning. 🧠💻🤖
+- 🏫: Learning and Exploring the GenAI and The LLMs.
+- 🔭: I’m currently working on AI  projects, brushing my problem solving skills and looking for more opportunities.
+- 🌱: Recently i have gained the deep knowledge and hand's on practice in Java and its other Apis. 🧠💻🤖
 - 🤔: I’m looking for help with anything I am currently learning! 😅
-- 💬: Ask me about Data Analysis, Visualization and Machine Learning algorithms. 📊📈🤖🧠
+- 💬: Ask me about Data Analysis, Machine Learning, Probelm solving and learning cotent😉. 📊📈🤖🧠
 - 😄  Pronouns: He/His
 - ⚡  Fun fact: I love to read, Travel.! ⚽🎾🎹
 
