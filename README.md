@@ -3,7 +3,7 @@
 
 <br>
   
-# Me 👨‍💻 <img src="https://komarev.com/ghpvc/?username=prathmesh-jagtap&color=5d3ade&label=visitors&style=for-the-badge" align="right" />
+# Me 👨‍💻 <img src="https://komarev.com/ghpvc/?username=prathmesh-jagtap&color=brightgreen&label=visitors&style=for-the-badge" align="right" />
 - 🏫: Learning and Exploring the GenAI and The LLMs.
 - 🔭: I’m working on AI  projects, brushing my problem-solving skills, and looking for more opportunities.
 - 🌱: Recently I have gained deep knowledge and hands-on practice in Java and its other APIs. 🧠💻🤖
