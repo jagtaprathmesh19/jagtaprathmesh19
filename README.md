@@ -3,14 +3,14 @@
 
 <br>
   
-# Me 👨‍💻 <img src="https://komarev.com/ghpvc/?username=prathmesh-jagtap&color=5d3ade&label=visitors&style=flat-square" align="right" />
+# Me 👨‍💻 <img src="https://komarev.com/ghpvc/?username=prathmesh-jagtap&color=5d3ade&label=visitors&style=for-the-badge" align="right" />
 - 🏫: Learning and Exploring the GenAI and The LLMs.
-- 🔭: I’m currently working on AI  projects, brushing my problem solving skills and looking for more opportunities.
-- 🌱: Recently i have gained the deep knowledge and hand's on practice in Java and its other Apis. 🧠💻🤖
-- 🤔: I’m looking for help with anything I am currently learning! 😅
-- 💬: Ask me about Data Analysis, Machine Learning, Probelm solving and learning cotent😉. 📊📈🤖🧠
+- 🔭: I’m working on AI  projects, brushing my problem-solving skills, and looking for more opportunities.
+- 🌱: Recently I have gained deep knowledge and hands-on practice in Java and its other APIs. 🧠💻🤖
+- 🤔: I’m seeking help with anything I am currently learning! 😅
+- 💬: Ask me about Data Analysis, Machine Learning, problem-solving, and learning cotent😉. 📊📈🤖🧠
 - 😄  Pronouns: He/His
-- ⚡  Fun fact: I love to read, Travel.! ⚽🎾🎹
+- ⚡  Fun fact: I love to read and travel.! ⚽🎾🎹
 
 <hr>
 <Br>
@@ -32,7 +32,8 @@
 ![B](https://icongr.am/devicon/django-original.svg?size=55&color=currentColor)
 ![B](https://icongr.am/devicon/docker-original.svg?size=70&color=currentColor) ![B](https://icongr.am/devicon/c-original.svg?size=55&color=563d7c) 
 ![B](https://icongr.am/devicon/html5-original.svg?size=55&color=563d7c) ![B](https://icongr.am/devicon/css3-original.svg?size=55&color=563d7c)  
-![B](https://icongr.am/devicon/git-original.svg?size=55&color=563d7c)  ![B](https://icongr.am/octicons/mark-github.svg?size=55&color=949494)  ![B](https://icongr.am/devicon/mongodb-original.svg?size=55&color=563d7c)
+![B](https://icongr.am/devicon/git-original.svg?size=55&color=563d7c)  ![B](https://icongr.am/octicons/mark-github.svg?size=55&color=949494)  
+![B](https://icongr.am/devicon/mongodb-original.svg?size=55&color=563d7c)
 ![B](https://icongr.am/devicon/java-original.svg?size=55&color=563d7c)
 
 </div>
