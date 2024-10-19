@@ -12,6 +12,7 @@
 - 😄  Pronouns: He/His
 - ⚡  Fun fact: I love to read and travel.! ⚽🎾🎹
 
+<a href="https://app.daily.dev/prathmesh_jagtap"><img src="https://api.daily.dev/devcards/v2/RViwtyL3CurfDD86ZO2Ol.png?type=wide&r=q83" width="652" alt="Prathmesh Jagtap's Dev Card"/></a>
 <hr>
 <Br>
 <h1 align="center">Get in Touch! 📬</h1>
