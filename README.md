@@ -4,6 +4,7 @@
 <br>
   
 # Me 👨‍💻 <img src="https://komarev.com/ghpvc/?username=prathmesh-jagtap&color=brightgreen&label=visitors&style=for-the-badge" align="right" />
+<a href="https://app.daily.dev/prathmesh_jagtap"><img src="https://api.daily.dev/devcards/v2/RViwtyL3CurfDD86ZO2Ol.png?type=default&r=q83" width="356" alt="Prathmesh Jagtap's Dev Card" align="right"/></a>
 - 🏫: Learning and Exploring the GenAI and The LLMs.
 - 🔭: I’m working on AI  projects, brushing my problem-solving skills, and looking for more opportunities.
 - 🌱: Recently I have gained deep knowledge and hands-on practice in Java and its other APIs. 🧠💻🤖
@@ -12,7 +13,7 @@
 - 😄  Pronouns: He/His
 - ⚡  Fun fact: I love to read and travel.! ⚽🎾🎹
 
-<a href="https://app.daily.dev/prathmesh_jagtap"><img src="https://api.daily.dev/devcards/v2/RViwtyL3CurfDD86ZO2Ol.png?type=wide&r=q83" width="652" alt="Prathmesh Jagtap's Dev Card"/></a>
+<br><br><br><br>
 <hr>
 <Br>
 <h1 align="center">Get in Touch! 📬</h1>
