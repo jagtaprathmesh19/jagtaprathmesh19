@@ -13,7 +13,7 @@
 - 😄  Pronouns: He/His
 - ⚡  Fun fact: I love to read and travel.! ⚽🎾🎹
 
-<br><br><br><br>
+<br><br><br><br><br><br><br><br>
 <hr>
 <Br>
 <h1 align="center">Get in Touch! 📬</h1>
