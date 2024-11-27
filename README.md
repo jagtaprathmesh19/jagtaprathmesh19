@@ -82,20 +82,61 @@
 
 <Br>
 <hr>
-<div align="center">
-   <h1>Projects </h1>
-
-[<img src="https://github-readme-stats.vercel.app/api/pin/?username=prathmesh-jagtap&repo=Credit-Card-Default-Prediction-ML-Project&theme=dark" width="45%" height="80%"/>](https://github.com/prathmesh-jagtap/Credit-Card-Default-Prediction-ML-Project)
-[<img src="https://github-readme-stats.vercel.app/api/pin/?username=prathmesh-jagtap&repo=Housing-Price-Prediction-ML-Project&theme=dark" width="45%" height="90%"/>](https://github.com/prathmesh-jagtap/Housing-Price-Prediction-ML-Project)
-[<img src="https://github-readme-stats.vercel.app/api/pin/?username=prathmesh-jagtap&repo=Customer-Churn-Prediction&theme=dark" width="45%" height="90%"/>](https://github.com/prathmesh-jagtap/Customer-Churn-Prediction)
-[<img src="https://github-readme-stats.vercel.app/api/pin/?username=prathmesh-jagtap&repo=Location-FInder&theme=dark" width="45%" height="90%"/>](https://github.com/prathmesh-jagtap/Location-FInder)
-[<img src="https://github-readme-stats.vercel.app/api/pin/?username=prathmesh-jagtap&repo=Flask-Playlister-App&theme=dark" width="45%" height="90%"/>](https://github.com/prathmesh-jagtap/Flask-Playlister-App)
-[<img src="https://github-readme-stats.vercel.app/api/pin/?username=prathmesh-jagtap&repo=Amazon-Data-Scraper-Project&theme=dark" width="45%" height="90%"/>](https://github.com/prathmesh-jagtap/Amazon-Data-Scraper-Project)
-[<img src="https://github-readme-stats.vercel.app/api/pin/?username=prathmesh-jagtap&repo=Django-Liberary-App&theme=dark" width="45%" height="90%"/>](https://github.com/prathmesh-jagtap/Django-Liberary-App)
-[<img src="https://github-readme-stats.vercel.app/api/pin/?username=prathmesh-jagtap&repo=Python_ReviewFlask_app&theme=dark" width="45%" height="90%"/>](https://github.com/prathmesh-jagtap/Python_ReviewFlask_app)
-  
+  <div align="center">
+   <h1>Projects 🚀</h1>
+   <table>
+      <tr>
+         <td>
+            <a href="https://github.com/prathmesh-jagtap/Credit-Card-Default-Prediction-ML-Project">
+               <img src="https://github-readme-stats.vercel.app/api/pin/?username=prathmesh-jagtap&repo=Credit-Card-Default-Prediction-ML-Project&theme=dark" width="100%" />
+            </a>
+         </td>
+         <td>
+            <a href="https://github.com/prathmesh-jagtap/Housing-Price-Prediction-ML-Project">
+               <img src="https://github-readme-stats.vercel.app/api/pin/?username=prathmesh-jagtap&repo=Housing-Price-Prediction-ML-Project&theme=dark" width="100%" />
+            </a>
+         </td>
+      </tr>
+      <tr>
+         <td>
+            <a href="https://github.com/prathmesh-jagtap/Customer-Churn-Prediction">
+               <img src="https://github-readme-stats.vercel.app/api/pin/?username=prathmesh-jagtap&repo=Customer-Churn-Prediction&theme=dark" width="100%" />
+            </a>
+         </td>
+         <td>
+            <a href="https://github.com/prathmesh-jagtap/Location-FInder">
+               <img src="https://github-readme-stats.vercel.app/api/pin/?username=prathmesh-jagtap&repo=Location-FInder&theme=dark" width="100%" />
+            </a>
+         </td>
+      </tr>
+      <tr>
+         <td>
+            <a href="https://github.com/prathmesh-jagtap/Flask-Playlister-App">
+               <img src="https://github-readme-stats.vercel.app/api/pin/?username=prathmesh-jagtap&repo=Flask-Playlister-App&theme=dark" width="100%" />
+            </a>
+         </td>
+         <td>
+            <a href="https://github.com/prathmesh-jagtap/Amazon-Data-Scraper-Project">
+               <img src="https://github-readme-stats.vercel.app/api/pin/?username=prathmesh-jagtap&repo=Amazon-Data-Scraper-Project&theme=dark" width="100%" />
+            </a>
+         </td>
+      </tr>
+      <tr>
+         <td>
+            <a href="https://github.com/prathmesh-jagtap/Django-Liberary-App">
+               <img src="https://github-readme-stats.vercel.app/api/pin/?username=prathmesh-jagtap&repo=Django-Liberary-App&theme=dark" width="100%" />
+            </a>
+         </td>
+         <td>
+            <a href="https://github.com/prathmesh-jagtap/Python_ReviewFlask_app">
+               <img src="https://github-readme-stats.vercel.app/api/pin/?username=prathmesh-jagtap&repo=Python_ReviewFlask_app&theme=dark" width="100%" />
+            </a>
+         </td>
+      </tr>
+   </table>
 </div>
-  
+<!-- </div> 
+   -->
 <br>
 <hr>
 <h2 align="center">Keep Learning.. 📚📖 By Starring My <a href='https://github.com/prathmesh-jagtap?tab=repositories'><img align='center'  height="35" src="https://img.shields.io/badge/Repos!😊-purple.svg?&style=for-the-badge&logo=prathmesh-jagtap&logoColor=blue" /></a></h2>
