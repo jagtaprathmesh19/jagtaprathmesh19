@@ -42,43 +42,47 @@
 
 <Br>
 <hr>
-<div align="center">
-  <h1>GitHub Stats :bar_chart: </h1>
+<h2 align="center">📊 GitHub Stats</h2>
 
-<div align="center">
-  <div align="center">
-    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img
-        align="left"
-        width="396"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=jagtaprathmesh19&theme=dark&count_private=true&border=61dafb&hide_border=true"
-        alt="zumrudu-anka"
-      />
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img
-        align="right"
-        width="396"
-        src="https://github-readme-stats.vercel.app/api?username=jagtaprathmesh19&show_icons=true&theme=dark&count_private=true&border_color=61dafb&hide_border=true"
-      />
-    </a>
-  </div>
-  
-  <br /><br /><br /><br /><br /><br /><br /><br /><br />
-  <div align="center" title="Go to Source">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img
-        width="325"
-        align="center"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=jagtaprathmesh19&theme=dark&count_private=true&border_color=61dafb&hide_border=true"
-      />
-    </a>
-  </div>
-  <br />
-  
-  [![Prathmesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jagtaprathmesh19&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!-- Streak Stats + Overall Stats -->
+<p align="center">
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=jagtaprathmesh19&theme=prussian" alt="GitHub Streak" /></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      src="https://github-readme-stats.vercel.app/api?username=jagtaprathmesh19&show_icons=true&theme=dark&hide_border=true"
+      height="165"
+    />
+  </a>
+</p>
 
-  [![trophy](https://github-profile-trophy.vercel.app/?username=jagtaprathmesh19&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+<!-- Top Languages -->
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=jagtaprathmesh19&layout=compact&theme=dark&hide_border=true"
+      height="150"
+    />
+  </a>
+</p>
+
+<!-- Activity Graph -->
+<p align="center">
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
+    <img
+      src="https://github-readme-activity-graph.vercel.app/graph?username=jagtaprathmesh19&theme=github-dark"
+    />
+  </a>
+</p>
+
+<!-- GitHub Trophies -->
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img
+      src="https://github-profile-trophy.vercel.app/?username=jagtaprathmesh19&theme=onedark&no-frame=true&row=1&margin-w=10"
+    />
+  </a>
+</p>
+
 
 <Br>
 <hr>
