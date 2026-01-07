@@ -3,9 +3,9 @@
 </div>
 
 <div align="center">
-  <img src="./MLops.svg" alt="MLOps Banner" width="100%"/>
+ <img align="center" alt="Coding" width="300" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 </div>
-
+<br>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=jagtaprathmesh19&color=38C2FF&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/jagtaprathmesh19?style=for-the-badge&color=38C2FF&labelColor=1C1E26&logo=github" alt="GitHub followers" />
@@ -19,7 +19,6 @@
 <tr>
 <td width="50%">
 
-<img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 ### 👨‍💻 Quick Facts
 
@@ -50,7 +49,7 @@
   
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/@techbynerdy)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jagtaprathmesh19)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@@jagtaprathmesh19)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@jagtaprathmesh19)
 [![X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/techbynerdy)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jagtaprathmesh19@gmail.com)
 
