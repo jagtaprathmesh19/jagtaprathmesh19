@@ -152,16 +152,6 @@
 <br>
 
 ---
-
-## 📈 Profile Activity
-
-<div align="center">
-  <img src="https://visitcount.itsvg.in/api?id=jagtaprathmesh19&icon=6&color=6" alt="Visit Count" />
-</div>
-
-<br>
-
----
 ## 🌐 Connect With Me
 
 <div align="center">
