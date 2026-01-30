@@ -15,12 +15,7 @@
 
 ## 🚀 About Me
 
-<table>
-<tr>
-<td width="50%">
 
-
-### 👨‍💻 Quick Facts
 
 - 🏫 **Learning**: GenAI & Large Language Models (LLMs)
 - 🔭 **Currently**: Working on AI projects & sharpening problem-solving skills
@@ -30,30 +25,6 @@
 - ⚡ **Fun Fact**: I love to read, travel, and explore new technologies! 📚✈️
 - 😄 **Pronouns**: He/His
 
-</td>
-<td width="50%">
-
-[<img src="https://api.daily.dev/devcards/v2/RViwtyL3CurfDD86ZO2Ol.png?type=default&r=q83" width="100%" alt="Prathmesh Jagtap's Dev Card"/>](https://app.daily.dev/jagtaprathmesh19)
-
-</td>
-</tr>
-</table>
-
-<br>
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-  
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/@techbynerdy)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jagtaprathmesh19)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@jagtaprathmesh19)
-[![X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/techbynerdy)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jagtaprathmesh19@gmail.com)
-
-</div>
 
 <br>
 
@@ -191,6 +162,20 @@
 <br>
 
 ---
+## 🌐 Connect With Me
+
+<div align="center">
+  
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/@techbynerdy)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jagtaprathmesh19)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@jagtaprathmesh19)
+[![X](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/techbynerdy)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jagtaprathmesh19@gmail.com)
+
+</div>
+
+----
+<br>
 
 ## 💰 Support My Work
 
