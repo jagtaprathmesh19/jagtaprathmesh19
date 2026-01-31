@@ -31,6 +31,15 @@
 ---
 
 ## 💻 Tech Stack
+<details open>
+<summary><b>🔤 LLMS </b></summary>
+<br>
+
+![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/google%20gemini-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white)
+![Ollama](https://img.shields.io/badge/ollama-%23000000.svg?style=for-the-badge&logo=ollama&logoColor=white)
+![Perplexity](https://img.shields.io/badge/perplexity-000000?style=for-the-badge&logo=perplexity&logoColor=088F8F)
 
 <details open>
 <summary><b>🔤 Languages</b></summary>
@@ -108,7 +117,7 @@
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=jagtaprathmesh19&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <!-- <img width="49%" src="https://github-readme-stats.vercel.app/api?username=jagtaprathmesh19&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" /> -->
   <img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=jagtaprathmesh19&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
@@ -133,15 +142,16 @@
 
 ---
 
-## 🔝 Top Contributed Repositories
-
-<div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=jagtaprathmesh19&limit=5&theme=tokyonight&combine_all_yearly_contributions=true&hide_border=true" alt="Top Contributed Repos" />
-</div>
+## 🔝 Current Projects
+- [Unaturals](https://unaturals.in/) - A wordpress website with complete CMS and Ecommerce.
+- [Next Ventures](https://nextventures.in/) - Venture capital and startup platform landing page build with Tailwind CSS and ReactJS
+- [AgriClick](https://www.agriclick.store/) - Agricultural based SAAS landing page build with ReactJS 
+- [Creative RJ Arts](https://creativerjarts.com/) - CreativeRJArts portfolio and ecommerce build with NextJs
 
 <br>
 
 ---
+
 
 ## ✍️ Random Dev Quote
 
