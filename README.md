@@ -131,20 +131,22 @@ const prathmesh = {
 <a id="stats"></a>
 ## 📊 GitHub Analytics
 
+<sub><i>anuraghazra/github-readme-stats, github-readme-activity-graph, and github-profile-trophy are currently paused on their free public hosting, so the cards below point at actively-maintained mirrors instead.</i></sub>
+
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=jagtaprathmesh19&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=jagtaprathmesh19&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img width="49%" src="https://github-stats-extended.vercel.app/api?username=jagtaprathmesh19&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
+  <img width="49%" src="https://streak-stats.demolab.com/?user=jagtaprathmesh19&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jagtaprathmesh19&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=jagtaprathmesh19&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+  <img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=jagtaprathmesh19&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
+  <img width="49%" src="https://ghchart.rshah.org/38C2FF/jagtaprathmesh19" alt="Contribution Graph" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jagtaprathmesh19&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=jagtaprathmesh19&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=1&column=7" alt="GitHub Trophies" />
 </div>
 
 <br>
@@ -158,6 +160,51 @@ const prathmesh = {
 </picture>
 
 </div>
+
+<details>
+<summary><sub>⚙️ One-time setup for the animated snake above (click to expand)</sub></summary>
+<br>
+
+The snake needs a GitHub Action running once in your <code>jagtaprathmesh19/jagtaprathmesh19</code> repo. Create <code>.github/workflows/snake.yml</code> with:
+
+```yaml
+name: generate animated snake
+
+on:
+  schedule:
+    - cron: "0 */24 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: generate snake animation
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: push snake animation to the output branch
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+```
+
+Commit it, and the action generates the SVGs on an `output` branch within a few minutes — the image above will then render automatically since it already points at that path. (Credit: [Platane/snk](https://github.com/Platane/snk))
+
+</details>
 
 <br>
 
