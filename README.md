@@ -35,16 +35,6 @@ I’m a **Full-Stack Engineer** working across product interfaces, backend APIs,
 
 I enjoy taking a product from idea to usable software: shaping the experience, designing the API and data model, integrating intelligent capabilities, and making the system easier to run and evolve.
 
-```ts
-const prathmesh = {
-  role: "Full-Stack Engineer",
-  builds: ["AI-enabled products", "Web platforms", "Developer tools", "Cloud services"],
-  strongestThemes: ["Agentic systems", "Backend engineering", "Product delivery"],
-  currentlyExploring: ["MCP", "LLM workflows", "Cloud operations", "Developer experience"],
-  basedOn: "Evidence from current and recent projects",
-};
-```
-
 <a id="currently-shipped"></a>
 
 ## 🚀 What's Currently Shipped
@@ -75,9 +65,7 @@ A concise view of the products and client-facing work I’m highlighting here. P
 - **AI product engineering** — building useful interfaces around LLMs, agents, tools, and structured workflows
 - **Cloud operations** — connecting AI agents to monitoring, compute, billing, incident knowledge, and operational data
 - **Full-stack delivery** — balancing product UX, API design, persistence, authentication, and deployment concerns
-- **Developer experience** — MCP/ACP integrations, terminal tooling, reusable skills, and automation that reduce friction
 
-> My current technical direction is best represented by [SmartOps Agent](https://github.com/jagtaprathmesh19/smartops-agent), [Kimi Code CLI](https://github.com/jagtaprathmesh19/kimi-cli), and [SKILL-Library](https://github.com/jagtaprathmesh19/SKILL-Library).
 
 <a id="skills"></a>
 
@@ -121,17 +109,6 @@ A concise view of the products and client-facing work I’m highlighting here. P
   <img src="https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white" alt="pytest" />
 </p>
 
-<a id="projects"></a>
-
-## ⭐ Selected Work
-
-| Project | What it demonstrates |
-| --- | --- |
-| [**SmartOps Agent**](https://github.com/jagtaprathmesh19/smartops-agent) | Google ADK and FastAPI agents for GCP compute, cost, monitoring, incident retrieval, AlloyDB/pgvector search, and MCP tools. |
-| [**Kimi Code CLI**](https://github.com/jagtaprathmesh19/kimi-cli) | A terminal-oriented AI developer tool with MCP, ACP, web APIs, SDK/workspace packages, and unit/e2e testing. |
-| [**SKILL-Library**](https://github.com/jagtaprathmesh19/SKILL-Library) | Composable AI-agent skills covering reasoning, API design, security, architecture, AWS, React, and workflows. |
-| [**retail**](https://github.com/jagtaprathmesh19/retail) | Java 21 and Spring Boot retail billing foundation with JPA, PostgreSQL, validation, OAuth2, AWS S3, WebFlux, and Docker configuration. |
-| [**Spring-Boot-Projects**](https://github.com/jagtaprathmesh19/Spring-Boot-Projects) | Spring MVC applications covering REST APIs, Spring Security, JPA, MySQL, BCrypt, and Thymeleaf. |
 
 <a id="writing"></a>
 
@@ -171,8 +148,6 @@ I write and collect ideas around software engineering, AI/ML, developer tools, a
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jagtaprathmesh19/jagtaprathmesh19/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jagtaprathmesh19/jagtaprathmesh19/output/github-contribution-grid-snake.svg" />
     <img src="https://raw.githubusercontent.com/jagtaprathmesh19/jagtaprathmesh19/output/github-contribution-grid-snake.svg" width="100%" alt="Animated contribution graph" />
   </picture>
 </div>
